@@ -7,7 +7,7 @@ sites:
     url: https://ci.bsdevelopment.org
   - name: Wiki
     url: https://wiki.bsdevelopment.org
-  - name: BSDevelopment
+  - name: BSDevelopment 
     url: https://bsdevelopment.org
   - name: Maven Repository
     url: https://repo.bsdevelopment.org
