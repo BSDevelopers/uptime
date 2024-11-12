@@ -4,7 +4,7 @@
     "url": "https://ci.bsdevelopment.org",
     "icon": "https://icons.duckduckgo.com/ip3/ci.bsdevelopment.org.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 392,
     "timeMonth": 364,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "Wiki",
