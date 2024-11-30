@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ci.bsdevelopment.org.ico",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 595,
-    "timeDay": 326,
-    "timeWeek": 359,
-    "timeMonth": 369,
-    "timeYear": 595,
+    "uptimeYear": "99.99%",
+    "time": 592,
+    "timeDay": 307,
+    "timeWeek": 351,
+    "timeMonth": 371,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2024-11-12": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 442,
-    "timeWeek": 311,
-    "timeMonth": 429,
-    "timeYear": 404,
+    "time": 413,
+    "timeDay": 1131,
+    "timeWeek": 419,
+    "timeMonth": 457,
+    "timeYear": 413,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 393,
-    "timeWeek": 341,
+    "time": 311,
+    "timeDay": 142,
+    "timeWeek": 313,
     "timeMonth": 303,
-    "timeYear": 313,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 285,
-    "timeWeek": 283,
+    "time": 253,
+    "timeDay": 315,
+    "timeWeek": 278,
     "timeMonth": 240,
-    "timeYear": 252,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   }
 ]
