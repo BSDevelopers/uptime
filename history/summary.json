@@ -60,19 +60,19 @@
     "url": "https://repo.bsdevelopment.org",
     "icon": "https://icons.duckduckgo.com/ip3/repo.bsdevelopment.org.ico",
     "slug": "maven-repository",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 315,
-    "timeWeek": 238,
-    "timeMonth": 233,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 255,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 230,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-24": 27
     }
   }
 ]
