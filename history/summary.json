@@ -4,18 +4,20 @@
     "url": "https://bsdevelopment.org",
     "icon": "https://icons.duckduckgo.com/ip3/bsdevelopment.org.ico",
     "slug": "bs-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 466,
-    "timeWeek": 383,
-    "timeMonth": 374,
+    "timeDay": 329,
+    "timeWeek": 359,
+    "timeMonth": 368,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "Jenkins",
@@ -86,7 +88,7 @@
     "slug": "pastelog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +97,8 @@
     "timeWeek": 248,
     "timeMonth": 278,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   }
 ]
