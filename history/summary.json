@@ -93,18 +93,19 @@
     "url": "https://www.pastelog.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.pastelog.us.ico",
     "slug": "pastelog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 162,
-    "timeWeek": 216,
-    "timeMonth": 215,
-    "timeYear": 278,
+    "time": 281,
+    "timeDay": 538,
+    "timeWeek": 303,
+    "timeMonth": 237,
+    "timeYear": 281,
     "dailyMinutesDown": {
+      "2025-09-30": 0,
       "2025-07-15": 21
     }
   }
