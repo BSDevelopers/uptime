@@ -4,19 +4,19 @@
     "url": "https://bsdevelopment.org",
     "icon": "https://icons.duckduckgo.com/ip3/bsdevelopment.org.ico",
     "slug": "bs-development",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 373,
-    "timeWeek": 366,
-    "timeMonth": 369,
+    "timeDay": 402,
+    "timeWeek": 376,
+    "timeMonth": 371,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-10-02": 0,
+      "2025-10-02": 18,
       "2025-07-15": 21
     }
   },
@@ -96,9 +96,9 @@
     "slug": "pastelog",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 280,
     "timeDay": 252,
@@ -106,7 +106,7 @@
     "timeMonth": 245,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-10-02": 0,
+      "2025-10-02": 18,
       "2025-07-15": 21
     }
   }
