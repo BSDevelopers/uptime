@@ -1,7 +1,7 @@
 url: https://pastelog.us
-status: up
-code: 200
-responseTime: 269
-lastUpdated: 2025-11-17T23:16:11.080Z
+status: down
+code: 500
+responseTime: 178
+lastUpdated: 2025-11-18T11:58:25.172Z
 startTime: 2025-02-18T22:52:12.765Z
 generator: Upptime <https://github.com/upptime/upptime>
