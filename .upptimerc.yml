@@ -6,7 +6,7 @@ sites:
   - name: BSDevelopment 
     url: https://bsdevelopment.org
   - name: Jenkins
-    url: https://ci.bsdevelopment.org
+    url: https://jenkins.bsdevelopment.org
   - name: Maven Repository
     url: https://repo.bsdevelopment.org
   - name: Wiki
