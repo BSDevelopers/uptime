@@ -1,7 +1,7 @@
-url: https://ci.bsdevelopment.org
-status: down
-code: 522
-responseTime: 19711
-lastUpdated: 2026-06-23T00:04:26.874Z
+url: https://jenkins.bsdevelopment.org
+status: up
+code: 200
+responseTime: 419
+lastUpdated: 2026-06-23T02:41:23.088Z
 startTime: 2024-09-09T16:41:41.334Z
 generator: Upptime <https://github.com/upptime/upptime>
